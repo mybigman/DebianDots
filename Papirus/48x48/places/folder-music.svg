@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="folder-music.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="4.7396503"
+     inkscape:cx="-1.7587311"
+     inkscape:cy="16.436924"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16">
+    <inkscape:grid
+       type="xygrid"
+       id="grid854" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#ff2a7f;stroke-width:0.8731361"
+     d="m 20.212166,32.251512 c -0.523881,-0.314328 -1.135076,-0.471494 -1.746271,-0.471494 -1.920901,0 -3.492545,1.571646 -3.492545,3.492544 0,1.920901 1.571644,3.492545 3.492545,3.492545 1.920898,0 3.492544,-1.571644 3.492544,-3.492545 v -8.731359 h 6.985088 v 5.710309 c -0.523882,-0.314328 -1.135078,-0.471494 -1.746273,-0.471494 -1.920898,0 -3.492544,1.571646 -3.492544,3.492544 0,1.920901 1.571646,3.492545 3.492544,3.492545 1.9209,0 3.492545,-1.571644 3.492545,-3.492545 V 23.048658 H 20.212166"
+     id="path14"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.98999999;fill:#ff2a7f;fill-opacity:1;stroke:#ffd42c;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+     d="M 0.15997095,28.353869 V 8.8709291 H 13.117525 26.075077 v 2.1440549 2.144055 H 36.981795 47.888513 V 30.497924 47.836808 H 24.024242 0.15997095 Z M 43.78684,30.497072 V 17.259009 L 24.070852,17.306477 4.3548625,17.353946 4.3070059,30.544548 4.2591493,43.73515 H 24.02299 43.78684 Z"
+     id="path860"
+     inkscape:connector-curvature="0" />
+</svg>
